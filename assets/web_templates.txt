@@ -1,0 +1,27 @@
+# Web_Templates
+
+downloaded from https://bootstraptaste.com/
+
+1. Ninestars
+https://bootstrapmade.com/demo/Ninestars/
+
+2. Folio
+https://bootstrapmade.com/demo/Folio/
+
+3. DevFolio
+https://bootstrapmade.com/demo/DevFolio/
+
+4. Personal***
+https://bootstrapmade.com/demo/Personal/
+
+5. iPortfolio**
+https://bootstrapmade.com/demo/iPortfolio/
+
+6. KnightOne
+https://bootstrapmade.com/demo/KnightOne/
+
+7. Baker
+https://bootstrapmade.com/demo/Baker/
+
+8. Moderna
+https://bootstrapmade.com/demo/Moderna/
